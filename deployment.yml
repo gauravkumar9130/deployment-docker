@@ -14,7 +14,7 @@ spec:
   spec: 
    containers:
    - name: c1
-     image: anything/anything
+     image: gauravkumar9130/testgaurav
      imagePullPolicy: Always
      stdin: true
      tty: true
